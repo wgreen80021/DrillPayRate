@@ -1,0 +1,7 @@
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\bin\Debug\DrillPayRate.exe.config
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\bin\Debug\DrillPayRate.exe
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\bin\Debug\DrillPayRate.pdb
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\obj\Debug\DrillPayRate.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\obj\Debug\DrillPayRate.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\obj\Debug\DrillPayRate.exe
+C:\Users\Wendy\source\repos\DrillPayRate\DrillPayRate\obj\Debug\DrillPayRate.pdb
