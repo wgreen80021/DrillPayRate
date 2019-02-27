@@ -20,8 +20,8 @@ namespace DrillPayRate
             Console.WriteLine("Please enter Hours Worked per week : ");
             string Per2HW = Console.ReadLine();
 
-            double P1Ann = ((Convert.ToDouble(Per1HR) * Convert.ToDouble(Per1HW)) * 52);
-            double P2Ann = ((Convert.ToDouble(Per2HR) * Convert.ToDouble(Per2HW)) * 52);
+            decimal P1Ann = ((Convert.ToDecimal(Per1HR) * Convert.ToDecimal(Per1HW)) * 52);
+            decimal P2Ann = ((Convert.ToDecimal(Per2HR) * Convert.ToDecimal(Per2HW)) * 52);
 
             Console.WriteLine("Annual Salary for Person 1 : ");
             Console.WriteLine("$" + P1Ann);
@@ -31,7 +31,7 @@ namespace DrillPayRate
             Console.WriteLine("$" + P2Ann);
 
             Console.WriteLine("Does Person 1 make more than Person 2 ?  ");
-            bool TrueFalse = Convert.ToInt32(P1Ann) > Convert.ToInt32(P2Ann);
+            bool TrueFalse = Convert.ToDecimal(P1Ann) > Convert.ToDecimal(P2Ann);
             Console.WriteLine(TrueFalse);
             Console.ReadLine();
         }
